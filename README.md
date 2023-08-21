@@ -30,4 +30,4 @@ With over a decade in the tech and data analysis realm, I've cultivated a knack 
 ### Let's Connect!
 Feel free to reach out for collaborations, projects, or just a chat. Always eager to connect with fellow tech and data enthusiasts.
 
-[![LinkedIn](https://img.shields.io/badge/-Aytac_INEL-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aytacinel/)](https://www.linkedin.com/in/aytacinel/)
+[![LinkedIn](https://img.shields.io/badge/-Aytac_INEL-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aytac-inel-b93125115/)](https://www.linkedin.com/in/aytac-inel-b93125115/)
